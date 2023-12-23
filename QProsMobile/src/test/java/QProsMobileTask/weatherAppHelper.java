@@ -96,7 +96,6 @@ public class weatherAppHelper {
                 counter++;
             }
         }
-        System.out.println(counter);
         return counter == 6;
     }
 
